@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0b0fc38e15b793a2e66ccbdb916a39eec1066bad
+>>>>>>> 1ecc20ea9f8c5eb3df123a0d3754128e0aebfdd7
 *~
 *.swp
 .*.swo
@@ -68,3 +76,48 @@ test/cmake_install.cmake
 
 # Translation binaries
 *.qm
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+=======
+>>>>>>> a1137cd39a4c4f030e4b64da2a0a114d60c0f0ef
+# Executables
+*.exe
+*.out
+*.app
+<<<<<<< HEAD
+>>>>>>> 82bd09f9b6f127dd8c44f6e86cdeee8bbf0a162d
+>>>>>>> 0b0fc38e15b793a2e66ccbdb916a39eec1066bad
+=======
+>>>>>>> a1137cd39a4c4f030e4b64da2a0a114d60c0f0ef
+>>>>>>> 1ecc20ea9f8c5eb3df123a0d3754128e0aebfdd7
