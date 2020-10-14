@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 *.swp
 .*.swo
@@ -68,3 +69,37 @@ test/cmake_install.cmake
 
 # Translation binaries
 *.qm
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 82bd09f9b6f127dd8c44f6e86cdeee8bbf0a162d
