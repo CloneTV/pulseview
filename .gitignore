@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 0b0fc38e15b793a2e66ccbdb916a39eec1066bad
@@ -103,9 +104,14 @@ test/cmake_install.cmake
 *.a
 *.lib
 
+=======
+>>>>>>> a1137cd39a4c4f030e4b64da2a0a114d60c0f0ef
 # Executables
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 >>>>>>> 82bd09f9b6f127dd8c44f6e86cdeee8bbf0a162d
 >>>>>>> 0b0fc38e15b793a2e66ccbdb916a39eec1066bad
+=======
+>>>>>>> a1137cd39a4c4f030e4b64da2a0a114d60c0f0ef
